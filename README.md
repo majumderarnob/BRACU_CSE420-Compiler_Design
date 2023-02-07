@@ -1,1 +1,1 @@
-# BRACU_CSE420-Compiler_Design
+These are my Lab Assignment files with solution of Brac University's Computer Science & Engineering departmental core course CSE420 known as Compiler Design. These Lab assignments are given during Spring'2023 Semester for the course work.
